@@ -1,2 +1,2 @@
 # beatport-mcp
-MCP for the Beatport Developer API
+[MCP](https://modelcontextprotocol.io/introduction) for the Beatport Developer API
