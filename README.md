@@ -20,7 +20,7 @@ First, locate the `claude_desktop_config.json` on your local machine. For Mac th
 Next, update the config JSON file to contain the following:
 
 ```json
-"beatport: {
+"beatport": {
     "command": "uv",
     "args": [
       "--directory",
