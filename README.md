@@ -1,17 +1,17 @@
 # beatport-mcp
 [MCP](https://modelcontextprotocol.io/introduction) for the Beatport Developer API. This is currently a WIP. Updates will be posted daily.
 
-# Set Up
+## Set Up
 
-## Step 1: Obtaining Your Access Token
+**Step 1: Obtaining Your Access Token**
 
 To obtain an access token, you can follow the steps outlined [here](https://api.beatport.com/v4/docs/).
 
-## Step 2: Clone this Repository
+**Step 2: Clone this Repository**
 
 Clone this repository to your local machine
 
-## Step 3: Start up the Beatport MCP server
+**Step 3: Start up the Beatport MCP server**
 
 You will need to do a couple things for this step.
 
