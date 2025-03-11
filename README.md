@@ -35,3 +35,17 @@ Next, update the config JSON file to contain the following:
     }
   }
 ```
+
+## Project Structure
+
+**beatport_api.py**
+
+This file contains the Beatport API client. It is used to interact with the Beatport API.
+
+**server.py**
+
+This file contains the Beatport MCP server. It is used to serve the Beatport API. This file exposes tools to the MCP client following the MCP protocol. Tool calls are then processed by this script, which uses the Beatport API client to interact with the Beatport API.
+
+**utils.py**
+
+This file contains utility functions for the Beatport MCP server.
