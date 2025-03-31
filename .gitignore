@@ -11,3 +11,6 @@ wheels/
 
 # env file
 .env
+
+# token file
+soundcloud_token.json
